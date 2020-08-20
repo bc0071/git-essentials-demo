@@ -1,2 +1,4 @@
 + line 1 by github
 + line two edited locally
++ line 3 by github
++ line 4 by github also and want to keep as new features
